@@ -1,0 +1,6 @@
+# Make-My-Journey
+Its a trip planning website using MERN technology.
+
+I have uploaded my project in google drive.Please use the below link to access:
+
+https://drive.google.com/file/d/18Kd0WFNhlV6mQ5cnEcqwxu50QAf1cQX7/view?usp=share_link
